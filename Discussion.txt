@@ -1,0 +1,5 @@
+1.Social network-ul a fost reprezentat cu ajutorul unui graf neorientat (fara cost) deoarece este cel mai usor mod de a afisa o astfel de retea.(este folosit si de Facebook)
+2. Algoritmul ales a fost BFS fiind cel mai folosit pentru gasirea celei mai scurte rute.
+3. Am ales un graf care nu este conex pentru a arata ca algoritmul abordeaza toate posibilatile pe care le poate intalni intr-o problema reala:
+	I. exista o ruta de la A la B
+	II.nu exista o ruta de la A la B

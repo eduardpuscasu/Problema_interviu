@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\nuele\Desktop\Problema_interviu\Problema_interviu\Problema_interviu\Problema_interviu\Source.cpp(89,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Problema_interviu.vcxproj -> C:\Users\nuele\Desktop\Problema_interviu\Problema_interviu\Problema_interviu\x64\Debug\Problema_interviu.exe
